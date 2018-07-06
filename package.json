@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@types/prop-types": "^15.5.3",
     "apollo-client-preset": "^1.0.8",
     "apollo-link-ws": "^1.0.8",
     "graphql": "^0.13.2",
